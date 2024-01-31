@@ -1,10 +1,13 @@
-(setTrayOnMinimize) ();
-     createTrayNotification( "Dikkat:Oyunu Alt Tab'a Attınız", "warning" )
-end
-addEventHandler( "onClientMinimize", getRootElement( ), setTrayOnMinimize ) 
- 
- { addfunction("dikkat oyunu alt taba attınız!!?!?")
+getComputedStyle(settimer)
 
-  console.warn("alt tab atmaktan çekininiz!"); 
- }
-                  
+function(AddFuelDoldurma);
+
+
+           {if (14>)
+
+
+                 start}
+
+   {if (14>)      
+    
+          stop}
