@@ -10,4 +10,4 @@ function(AddFuelDoldurma);
 
    {if (14>)      
     
-          stop}
+          stop} dd 
